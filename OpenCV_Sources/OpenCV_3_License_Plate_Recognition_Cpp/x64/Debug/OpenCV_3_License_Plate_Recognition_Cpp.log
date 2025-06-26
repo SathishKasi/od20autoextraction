@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\sathish.kasilingam\downloads\ocr\ocr\opencv_3_license_plate_recognition_cpp\main.cpp(183): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sathish.kasilingam\downloads\ocr\ocr\opencv_3_license_plate_recognition_cpp\main.cpp(184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sathish.kasilingam\downloads\ocr\ocr\opencv_3_license_plate_recognition_cpp\main.cpp(185): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sathish.kasilingam\downloads\ocr\ocr\opencv_3_license_plate_recognition_cpp\main.cpp(188): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sathish.kasilingam\downloads\ocr\ocr\opencv_3_license_plate_recognition_cpp\main.cpp(193): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  OpenCV_3_License_Plate_Recognition_Cpp.vcxproj -> C:\Users\Sathish.Kasilingam\Downloads\OCR\OCR\OpenCV_3_License_Plate_Recognition_Cpp\x64\Debug\OpenCV_3_License_Plate_Recognition_Cpp.exe
+  OpenCV_3_License_Plate_Recognition_Cpp.vcxproj -> C:\Users\Sathish.Kasilingam\Downloads\OCR\OCR\OpenCV_3_License_Plate_Recognition_Cpp\x64\Debug\OpenCV_3_License_Plate_Recognition_Cpp.pdb (Full PDB)

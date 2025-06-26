@@ -1,0 +1,444 @@
+ Size of hierarchy: 148
+ Hierarchy of countour  0  is
+   2   -1   1   -1
+
+ Hierarchy of countour  1  is
+   -1   -1   -1   0
+
+ Hierarchy of countour  2  is
+   3   0   -1   -1
+
+ Hierarchy of countour  3  is
+   5   2   4   -1
+
+ Hierarchy of countour  4  is
+   -1   -1   -1   3
+
+ Hierarchy of countour  5  is
+   6   3   -1   -1
+
+ Hierarchy of countour  6  is
+   8   5   7   -1
+
+ Hierarchy of countour  7  is
+   -1   -1   -1   6
+
+ Hierarchy of countour  8  is
+   10   6   9   -1
+
+ Hierarchy of countour  9  is
+   -1   -1   -1   8
+
+ Hierarchy of countour  10  is
+   12   8   11   -1
+
+ Hierarchy of countour  11  is
+   -1   -1   -1   10
+
+ Hierarchy of countour  12  is
+   13   10   -1   -1
+
+ Hierarchy of countour  13  is
+   15   12   14   -1
+
+ Hierarchy of countour  14  is
+   -1   -1   -1   13
+
+ Hierarchy of countour  15  is
+   17   13   16   -1
+
+ Hierarchy of countour  16  is
+   -1   -1   -1   15
+
+ Hierarchy of countour  17  is
+   19   15   18   -1
+
+ Hierarchy of countour  18  is
+   -1   -1   -1   17
+
+ Hierarchy of countour  19  is
+   20   17   -1   -1
+
+ Hierarchy of countour  20  is
+   23   19   21   -1
+
+ Hierarchy of countour  21  is
+   22   -1   -1   20
+
+ Hierarchy of countour  22  is
+   -1   21   -1   20
+
+ Hierarchy of countour  23  is
+   24   20   -1   -1
+
+ Hierarchy of countour  24  is
+   26   23   25   -1
+
+ Hierarchy of countour  25  is
+   -1   -1   -1   24
+
+ Hierarchy of countour  26  is
+   28   24   27   -1
+
+ Hierarchy of countour  27  is
+   -1   -1   -1   26
+
+ Hierarchy of countour  28  is
+   29   26   -1   -1
+
+ Hierarchy of countour  29  is
+   32   28   30   -1
+
+ Hierarchy of countour  30  is
+   31   -1   -1   29
+
+ Hierarchy of countour  31  is
+   -1   30   -1   29
+
+ Hierarchy of countour  32  is
+   33   29   -1   -1
+
+ Hierarchy of countour  33  is
+   34   32   -1   -1
+
+ Hierarchy of countour  34  is
+   35   33   -1   -1
+
+ Hierarchy of countour  35  is
+   36   34   -1   -1
+
+ Hierarchy of countour  36  is
+   37   35   -1   -1
+
+ Hierarchy of countour  37  is
+   39   36   38   -1
+
+ Hierarchy of countour  38  is
+   -1   -1   -1   37
+
+ Hierarchy of countour  39  is
+   41   37   40   -1
+
+ Hierarchy of countour  40  is
+   -1   -1   -1   39
+
+ Hierarchy of countour  41  is
+   42   39   -1   -1
+
+ Hierarchy of countour  42  is
+   43   41   -1   -1
+
+ Hierarchy of countour  43  is
+   45   42   44   -1
+
+ Hierarchy of countour  44  is
+   -1   -1   -1   43
+
+ Hierarchy of countour  45  is
+   47   43   46   -1
+
+ Hierarchy of countour  46  is
+   -1   -1   -1   45
+
+ Hierarchy of countour  47  is
+   50   45   48   -1
+
+ Hierarchy of countour  48  is
+   49   -1   -1   47
+
+ Hierarchy of countour  49  is
+   -1   48   -1   47
+
+ Hierarchy of countour  50  is
+   52   47   51   -1
+
+ Hierarchy of countour  51  is
+   -1   -1   -1   50
+
+ Hierarchy of countour  52  is
+   54   50   53   -1
+
+ Hierarchy of countour  53  is
+   -1   -1   -1   52
+
+ Hierarchy of countour  54  is
+   55   52   -1   -1
+
+ Hierarchy of countour  55  is
+   56   54   -1   -1
+
+ Hierarchy of countour  56  is
+   58   55   57   -1
+
+ Hierarchy of countour  57  is
+   -1   -1   -1   56
+
+ Hierarchy of countour  58  is
+   61   56   59   -1
+
+ Hierarchy of countour  59  is
+   60   -1   -1   58
+
+ Hierarchy of countour  60  is
+   -1   59   -1   58
+
+ Hierarchy of countour  61  is
+   62   58   -1   -1
+
+ Hierarchy of countour  62  is
+   135   61   63   -1
+
+ Hierarchy of countour  63  is
+   64   -1   -1   62
+
+ Hierarchy of countour  64  is
+   66   63   65   62
+
+ Hierarchy of countour  65  is
+   -1   -1   -1   64
+
+ Hierarchy of countour  66  is
+   67   64   -1   62
+
+ Hierarchy of countour  67  is
+   68   66   -1   62
+
+ Hierarchy of countour  68  is
+   69   67   -1   62
+
+ Hierarchy of countour  69  is
+   70   68   -1   62
+
+ Hierarchy of countour  70  is
+   71   69   -1   62
+
+ Hierarchy of countour  71  is
+   72   70   -1   62
+
+ Hierarchy of countour  72  is
+   119   71   73   62
+
+ Hierarchy of countour  73  is
+   74   -1   -1   72
+
+ Hierarchy of countour  74  is
+   75   73   -1   72
+
+ Hierarchy of countour  75  is
+   76   74   -1   72
+
+ Hierarchy of countour  76  is
+   77   75   -1   72
+
+ Hierarchy of countour  77  is
+   78   76   -1   72
+
+ Hierarchy of countour  78  is
+   79   77   -1   72
+
+ Hierarchy of countour  79  is
+   80   78   -1   72
+
+ Hierarchy of countour  80  is
+   81   79   -1   72
+
+ Hierarchy of countour  81  is
+   82   80   -1   72
+
+ Hierarchy of countour  82  is
+   83   81   -1   72
+
+ Hierarchy of countour  83  is
+   84   82   -1   72
+
+ Hierarchy of countour  84  is
+   85   83   -1   72
+
+ Hierarchy of countour  85  is
+   86   84   -1   72
+
+ Hierarchy of countour  86  is
+   87   85   -1   72
+
+ Hierarchy of countour  87  is
+   88   86   -1   72
+
+ Hierarchy of countour  88  is
+   89   87   -1   72
+
+ Hierarchy of countour  89  is
+   90   88   -1   72
+
+ Hierarchy of countour  90  is
+   91   89   -1   72
+
+ Hierarchy of countour  91  is
+   92   90   -1   72
+
+ Hierarchy of countour  92  is
+   93   91   -1   72
+
+ Hierarchy of countour  93  is
+   94   92   -1   72
+
+ Hierarchy of countour  94  is
+   95   93   -1   72
+
+ Hierarchy of countour  95  is
+   96   94   -1   72
+
+ Hierarchy of countour  96  is
+   97   95   -1   72
+
+ Hierarchy of countour  97  is
+   98   96   -1   72
+
+ Hierarchy of countour  98  is
+   99   97   -1   72
+
+ Hierarchy of countour  99  is
+   100   98   -1   72
+
+ Hierarchy of countour  100  is
+   101   99   -1   72
+
+ Hierarchy of countour  101  is
+   102   100   -1   72
+
+ Hierarchy of countour  102  is
+   103   101   -1   72
+
+ Hierarchy of countour  103  is
+   104   102   -1   72
+
+ Hierarchy of countour  104  is
+   105   103   -1   72
+
+ Hierarchy of countour  105  is
+   106   104   -1   72
+
+ Hierarchy of countour  106  is
+   114   105   107   72
+
+ Hierarchy of countour  107  is
+   -1   -1   108   106
+
+ Hierarchy of countour  108  is
+   -1   -1   109   107
+
+ Hierarchy of countour  109  is
+   112   -1   110   108
+
+ Hierarchy of countour  110  is
+   111   -1   -1   109
+
+ Hierarchy of countour  111  is
+   -1   110   -1   109
+
+ Hierarchy of countour  112  is
+   113   109   -1   108
+
+ Hierarchy of countour  113  is
+   -1   112   -1   108
+
+ Hierarchy of countour  114  is
+   115   106   -1   72
+
+ Hierarchy of countour  115  is
+   116   114   -1   72
+
+ Hierarchy of countour  116  is
+   117   115   -1   72
+
+ Hierarchy of countour  117  is
+   118   116   -1   72
+
+ Hierarchy of countour  118  is
+   -1   117   -1   72
+
+ Hierarchy of countour  119  is
+   120   72   -1   62
+
+ Hierarchy of countour  120  is
+   122   119   121   62
+
+ Hierarchy of countour  121  is
+   -1   -1   -1   120
+
+ Hierarchy of countour  122  is
+   123   120   -1   62
+
+ Hierarchy of countour  123  is
+   124   122   -1   62
+
+ Hierarchy of countour  124  is
+   125   123   -1   62
+
+ Hierarchy of countour  125  is
+   134   124   126   62
+
+ Hierarchy of countour  126  is
+   130   -1   127   125
+
+ Hierarchy of countour  127  is
+   -1   -1   128   126
+
+ Hierarchy of countour  128  is
+   -1   -1   129   127
+
+ Hierarchy of countour  129  is
+   -1   -1   -1   128
+
+ Hierarchy of countour  130  is
+   -1   126   131   125
+
+ Hierarchy of countour  131  is
+   -1   -1   132   130
+
+ Hierarchy of countour  132  is
+   -1   -1   133   131
+
+ Hierarchy of countour  133  is
+   -1   -1   -1   132
+
+ Hierarchy of countour  134  is
+   -1   125   -1   62
+
+ Hierarchy of countour  135  is
+   137   62   136   -1
+
+ Hierarchy of countour  136  is
+   -1   -1   -1   135
+
+ Hierarchy of countour  137  is
+   138   135   -1   -1
+
+ Hierarchy of countour  138  is
+   139   137   -1   -1
+
+ Hierarchy of countour  139  is
+   140   138   -1   -1
+
+ Hierarchy of countour  140  is
+   141   139   -1   -1
+
+ Hierarchy of countour  141  is
+   144   140   142   -1
+
+ Hierarchy of countour  142  is
+   143   -1   -1   141
+
+ Hierarchy of countour  143  is
+   -1   142   -1   141
+
+ Hierarchy of countour  144  is
+   145   141   -1   -1
+
+ Hierarchy of countour  145  is
+   -1   144   146   -1
+
+ Hierarchy of countour  146  is
+   147   -1   -1   145
+
+ Hierarchy of countour  147  is
+   -1   146   -1   145
