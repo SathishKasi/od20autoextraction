@@ -1,0 +1,1 @@
+Takes manufacturing drawing documentation as input, uses OpenCV for intelligent document processing. Extracts characteristics and location on drawing. Extracts structured data from the documents based on content and layout
